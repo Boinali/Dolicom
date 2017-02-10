@@ -1,0 +1,7 @@
+dc_test_homepage:
+    path:     /
+    defaults: { _controller: DCTestBundle:Default:index }
+
+hello_the_world:
+    path:     /hello-world
+    defaults: { _controller: DCTestBundle:Advert:index }
